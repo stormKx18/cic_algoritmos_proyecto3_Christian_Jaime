@@ -141,113 +141,39 @@ Entregables:
 
 ##
 
-### 30 nodos (Modelo Gn,p de Gilbert)
+### Pocos nodos (Modelo Gn,p de Gilbert)  [graphviz](/graphviz/grafoGilbert_n_30_p_10_labels.gv)
 **n = 30, p = 0.1, dirigido = False, auto=False**
 
-<img src="/img/grafoGilbert_n_30_p_10.png" width="500" />
+<img src="/img/grafoGilbert_n_30_p_10_labels.png" width="500" />
 
-> 30 Nodos y 81 Aristas
+> 30 Nodos y 93 Aristas
 
 ##
 
-### 30 nodos - BFS (Modelo Gn,p de Gilbert)
-**n = 30, p = 0.1, dirigido = False, auto=False**
+### Pocos nodos - Dijkstra (Modelo Gn,p de Gilbert) [graphviz](/graphviz/grafoGilbert_n_30_p_10_Dijkstra__source_1_labels.gv)
+**n = 30, p = 0.1, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoGilbert_n_30_p_10_BFS_7.png" width="500" />
+<img src="/img/grafoGilbert_n_30_p_10_Dijkstra__source_1_labels.png" width="500" />
 
 > 30 Nodos y 29 Aristas
 
 ##
 
-
-### 30 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
-**n = 30, p = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_30_p_10_DFS_R_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-
-### 30 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
-**n = 30, p = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_30_p_10_DFS_I_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-### 100 nodos (Modelo Gn,p de Gilbert)
+### Muchos nodos (Modelo Gn,p de Gilbert)  [graphviz](/graphviz/grafoGilbert_n_100_p_10_labels.gv)
 **n = 100, p = 0.1, dirigido = False, auto=False**
 
-<img src="/img/grafoGilbert_n_100_p_10.png" width="500" />
+<img src="/img/grafoGilbert_n_100_p_10_labels.png" width="500" />
 
-> 100 Nodos y 889 Aristas
+> 100 Nodos y 939 Aristas
 
 ##
 
-### 100 nodos - BFS (Modelo Gn,p de Gilbert)
-**n = 100, p = 0.1, dirigido = False, auto=False**
+### Muchos nodos - Dijkstra (Modelo Gn,p de Gilbert) [graphviz](/graphviz/grafoGilbert_n_100_p_10_Dijkstra__source_1_labels.gv)
+**n = 100, p = 0.1, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoGilbert_n_100_p_10_BFS_7.png" width="500" />
+<img src="/img/grafoGilbert_n_100_p_10_Dijkstra__source_1_labels.png" width="500" />
 
 > 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
-**n = 100, p = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_100_p_10_DFS_R_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
-**n = 100, p = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_100_p_10_DFS_I_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 500 nodos (Modelo Gn,p de Gilbert)
-**n = 500, p = 0.03, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_500_p_3.png" width="500" />
-
-> 500 Nodos y 7,464 Aristas
-
-##
-
-### 500 nodos - BFS (Modelo Gn,p de Gilbert)
-**n = 500, p = 0.03, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_500_p_3_BFS_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS recursivo (Modelo Gn,p de Gilbert)
-**n = 500, p = 0.03, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_500_p_3_DFS_R_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS iterativo (Modelo Gn,p de Gilbert)
-**n = 500, p = 0.03, dirigido = False, auto=False**
-
-<img src="/img/grafoGilbert_n_500_p_3_DFS_I_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
 
 ---
 
