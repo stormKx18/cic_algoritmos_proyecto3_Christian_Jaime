@@ -185,111 +185,39 @@ Entregables:
 
 ##
 
-### 30 nodos (Modelo Gn,r Geográfico simple)
+### Pocos nodos (Modelo Gn,r Geográfico simple)  [graphviz](/graphviz/grafoGeografico_n_30_r_3_labels.gv)
 **n = 30, r = 0.3, dirigido = False, auto=False**
 
-<img src="/img/grafoGeografico_n_30_r_3.png" width="500" />
+<img src="/img/grafoGeografico_n_30_r_3_labels.png" width="500" />
 
-> 30 Nodos y 104 Aristas
+> 30 Nodos y 103 Aristas
 
 ##
 
-### 30 nodos - BFS (Modelo Gn,r Geográfico simple)
-**n = 30, r = 0.3, dirigido = False, auto=False**
+### Pocos nodos - Dijkstra (Modelo Gn,r Geográfico simple) [graphviz](/graphviz/grafoGeografico_n_30_r_3_Dijkstra__source_1_labels.gv)
+**n = 30, r = 0.3, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoGeografico_n_30_r_3_BFS_7.png" width="500" />
+<img src="/img/grafoGeografico_n_30_r_3_Dijkstra__source_1_labels.png" width="500" />
 
 > 30 Nodos y 29 Aristas
 
 ##
 
-### 30 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
-**n = 30, r = 0.3, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_30_r_3_DFS_R_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-### 30 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
-**n = 30, r = 0.3, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_30_r_3_DFS_I_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-### 100 nodos (Modelo Gn,r Geográfico simple)
+### Muchos nodos (Modelo Gn,r Geográfico simple)  [graphviz](/graphviz/grafoGeografico_n_100_r_3_labels.gv)
 **n = 100, r = 0.3, dirigido = False, auto=False**
 
-<img src="/img/grafoGeografico_n_100_r_3.png" width="500" />
+<img src="/img/grafoGeografico_n_100_r_3_labels.png" width="500" />
 
-> 100 Nodos y 1086 Aristas
+> 100 Nodos y 1,102 Aristas
 
 ##
 
-### 100 nodos - BFS (Modelo Gn,r Geográfico simple)
-**n = 100, r = 0.3, dirigido = False, auto=False**
+### Muchos nodos - Dijkstra (Modelo Gn,r Geográfico simple) [graphviz](/graphviz/grafoGeografico_n_100_r_3_Dijkstra__source_1_labels.gv)
+**n = 100, r = 0.3, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoGeografico_n_100_r_3_BFS_7.png" width="500" />
+<img src="/img/grafoGeografico_n_100_r_3_Dijkstra__source_1_labels.png" width="500" />
 
 > 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
-**n = 100, r = 0.3, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_100_r_3_DFS_R_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
-**n = 100, r = 0.3, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_100_r_3_DFS_I_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 500 nodos (Modelo Gn,r Geográfico simple)
-**n = 500, r = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_500_r_1.png" width="500" />
-
-> 500 Nodos y 3,768 Aristas
-
-##
-
-### 500 nodos - BFS (Modelo Gn,r Geográfico simple)
-**n = 500, r = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_500_r_1_BFS_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS recursivo (Modelo Gn,r Geográfico simple)
-**n = 500, r = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_500_r_1_DFS_R_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS iterativo (Modelo Gn,r Geográfico simple)
-**n = 500, r = 0.1, dirigido = False, auto=False**
-
-<img src="/img/grafoGeografico_n_500_r_1_DFS_I_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
 
 ---
 
