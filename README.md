@@ -53,7 +53,7 @@ Entregables:
 
 ##
 
-### Pocos nodos (Modelo Gm,n de malla)
+### Pocos nodos (Modelo Gm,n de malla)  [graphviz](/graphviz/grafoMalla_m_3_n_3_labels.gv)
 **m = 3, n = 3, dirigido = False**
 
 <img src="/img/grafoMalla_m_3_n_3_labels.png" width="500" />
@@ -62,7 +62,7 @@ Entregables:
 
 ##
 
-### Pocos nodos - Dijkstra (Modelo Gm,n de malla)
+### Pocos nodos - Dijkstra (Modelo Gm,n de malla) [graphviz](/graphviz/grafoMalla_m_3_n_3_Dijkstra__source_1_labels.gv)
 **m = 3, n = 3, dirigido = False**, nodo_raiz= 1 
 
 <img src="/img/grafoMalla_m_3_n_3_Dijkstra__source_1_labels.png" width="500" />
