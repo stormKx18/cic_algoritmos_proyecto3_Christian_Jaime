@@ -97,111 +97,39 @@ Entregables:
 
 ##
 
-### 30 nodos (Modelo Gn,m de Erdös y Rényi)
-**n = 30, m = 30, dirigido = False, auto=False**
+### Pocos nodos (Modelo Gn,m de Erdös y Rényi)  [graphviz](/graphviz/grafoErdosRenyi_n_20_m_30_labels.gv)
+**n = 20, m = 30, dirigido = False, auto=False**
 
-<img src="/img/grafoErdosRenyi_n_30_m_30.png" width="500" />
+<img src="/img/grafoErdosRenyi_n_20_m_30_labels.png" width="500" />
 
-> 30 Nodos y 30 Aristas
-
-##
-
-### 30 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
-**n = 30, m = 30, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_30_m_30_BFS_7.png" width="500" />
-
-> 24 Nodos y 23 Aristas
+> 20 Nodos y 30 Aristas
 
 ##
 
-### 30 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
-**n = 30, m = 30, dirigido = False, auto=False**
+### Pocos nodos - Dijkstra (Modelo Gn,m de Erdös y Rényi) [graphviz](/graphviz/grafoErdosRenyi_n_20_m_30_Dijkstra__source_1_labels.gv)
+**n = 20, m = 30, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoErdosRenyi_n_30_m_30_DFS_R_7.png" width="500" />
+<img src="/img/grafoErdosRenyi_n_20_m_30_Dijkstra__source_1_labels.png" width="500" />
 
-> 24 Nodos y 23 Aristas
-
-##
-
-### 30 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
-**n = 30, m = 30, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_30_m_30_DFS_I_7.png" width="500" />
-
-> 24 Nodos y 23 Aristas
+> 20 Nodos y 19 Aristas
 
 ##
 
-### 100 nodos (Modelo Gn,m de Erdös y Rényi)
+### Muchos nodos (Modelo Gn,m de Erdös y Rényi)  [graphviz](/graphviz/grafoErdosRenyi_n_100_m_100_labels.gv)
 **n = 100, m = 100, dirigido = False, auto=False**
 
-<img src="/img/grafoErdosRenyi_n_100_m_100.png" width="500" />
+<img src="/img/grafoErdosRenyi_n_100_m_100_labels.png" width="500" />
 
 > 100 Nodos y 100 Aristas
 
 ##
 
-### 100 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
-**n = 100, m = 100, dirigido = False, auto=False**
+### Muchos nodos - Dijkstra (Modelo Gn,m de Erdös y Rényi) [graphviz](/graphviz/grafoErdosRenyi_n_100_m_100_Dijkstra__source_1_labels.gv)
+**n = 100, m = 100, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoErdosRenyi_n_100_m_100_BFS_7.png" width="500" />
+<img src="/img/grafoErdosRenyi_n_100_m_100_Dijkstra__source_1_labels.png" width="500" />
 
-> 87 Nodos y 86 Aristas
-
-##
-
-### 100 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
-**n = 100, m = 100, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_100_m_100_DFS_R_7.png" width="500" />
-
-> 87 Nodos y 86 Aristas
-
-##
-
-### 100 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
-**n = 100, m = 100, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_100_m_100_DFS_I_7.png" width="500" />
-
-> 87 Nodos y 86 Aristas
-
-##
-
-### 500 nodos (Modelo Gn,m de Erdös y Rényi)
-**n = 500, m = 500, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_500_m_500.png" width="500" />
-
-> 500 Nodos y 500 Aristas
- 
-##
-
-### 500 nodos - BFS (Modelo Gn,m de Erdös y Rényi)
-**n = 500, m = 500, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_500_m_500_BFS_7.png" width="500" />
-
-> 392 Nodos y 391 Aristas
- 
-##
-
-### 500 nodos - DFS recursivo (Modelo Gn,m de Erdös y Rényi)
-**n = 500, m = 500, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_500_m_500_DFS_R_7.png" width="500" />
-
-> 392 Nodos y 391 Aristas
- 
-##
-
-### 500 nodos - DFS iterativo (Modelo Gn,m de Erdös y Rényi)
-**n = 500, m = 500, dirigido = False, auto=False**
-
-<img src="/img/grafoErdosRenyi_n_500_m_500_DFS_I_7.png" width="500" />
-
-> 392 Nodos y 391 Aristas
+> 100 Nodos y 82 Aristas
  
 ---
 
