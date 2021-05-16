@@ -53,21 +53,21 @@ Entregables:
 
 ##
 
-### 30 nodos (Modelo Gm,n de malla)
-**m = 6, n = 5, dirigido = False**
+### Pocos nodos (Modelo Gm,n de malla)
+**m = 3, n = 3, dirigido = False**
 
-<img src="/img/grafoMalla_m_6_n_5.png" width="500" />
+<img src="/img/grafoMalla_m_3_n_3_labels.png" width="500" />
 
-> 30 Nodos y 49 Aristas
+> 9 Nodos y 12 Aristas
 
 ##
 
-### 30 nodos - BFS (Modelo Gm,n de malla)
-**m = 6, n = 5, dirigido = False**
+### Pocos nodos - Dijkstra (Modelo Gm,n de malla)
+**m = 3, n = 3, dirigido = False**, nodo_raiz= 1 
 
-<img src="/img/grafoMalla_m_6_n_5_BFS_7.png" width="500" />
+<img src="/img/grafoMalla_m_3_n_3_Dijkstra__source_1_labels.png" width="500" />
 
-> 30 Nodos y 29 Aristas
+> 9 Nodos y 8 Aristas
 
 ##
 
