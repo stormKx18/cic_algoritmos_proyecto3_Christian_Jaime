@@ -1,0 +1,10 @@
+2021-05-16 18:32:56.025977
+nodo_raiz:  1
+---100 Nodos---
+---100 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100_labels.gv
+
+---100 Nodos---
+---82 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_100_Dijkstra__source_1_labels.gv
+
