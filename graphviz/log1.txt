@@ -1,0 +1,98 @@
+2021-05-16 17:13:16.917960
+nodo_raiz:  1
+---9 Nodos---
+---12 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_3_n_3_labels.gv
+
+---9 Nodos---
+---8 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_3_n_3_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---171 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4_labels.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoMalla_m_25_n_4_Dijkstra__source_1_labels.gv
+
+---20 Nodos---
+---30 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_20_m_30_labels.gv
+
+---20 Nodos---
+---19 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_20_m_30_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---30 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_30_labels.gv
+
+---100 Nodos---
+---0 Aristas---
+Arhivo Graphviz generado: gv/grafoErdosRenyi_n_100_m_30_Dijkstra__source_1_labels.gv
+
+---30 Nodos---
+---93 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10_labels.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_30_p_10_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---939 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10_labels.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGilbert_n_100_p_10_Dijkstra__source_1_labels.gv
+
+---30 Nodos---
+---103 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3_labels.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_30_r_3_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---1102 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3_labels.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoGeografico_n_100_r_3_Dijkstra__source_1_labels.gv
+
+---30 Nodos---
+---59 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4_labels.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_30_d_4_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---198 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4_labels.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoBarabasiAlbert_n_100_d_4_Dijkstra__source_1_labels.gv
+
+---30 Nodos---
+---57 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30_labels.gv
+
+---30 Nodos---
+---29 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_30_Dijkstra__source_1_labels.gv
+
+---100 Nodos---
+---197 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100_labels.gv
+
+---100 Nodos---
+---99 Aristas---
+Arhivo Graphviz generado: gv/grafoDorogovtsevMendes_n_100_Dijkstra__source_1_labels.gv
+
