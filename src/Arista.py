@@ -7,7 +7,7 @@ class Arista:
     self.target = target
     self.id = str(source)+' -> '+str(target)
 
-    self.weight = randint(0,50)
+    self.weight = randint(1,50)
 
     #print(self.id, ' w:', self.weight)
   def __str__(self):
