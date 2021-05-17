@@ -229,111 +229,39 @@ Entregables:
 
 ##
 
-### 30 nodos (Variante del modelo Gn,d Barabási-Albert)
+### Pocos nodos (Variante del modelo Gn,d Barabási-Albert)  [graphviz](/graphviz/grafoBarabasiAlbert_n_30_d_4_labels.gv)
 **n = 30, d = 4, dirigido = False, auto=False**
 
-<img src="/img/grafoBarabasiAlbert_n_30_d_4.png" width="500" />
+<img src="/img/grafoBarabasiAlbert_n_30_d_4_labels.png" width="500" />
 
-> 30 Nodos y 58 Aristas
+> 30 Nodos y 59 Aristas
 
 ##
 
-### 30 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
-**n = 30, d = 4, dirigido = False, auto=False**
+### Pocos nodos - Dijkstra (Variante del modelo Gn,d Barabási-Albert) [graphviz](/graphviz/grafoBarabasiAlbert_n_30_d_4_Dijkstra__source_1_labels.gv)
+**n = 30, d = 4, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoBarabasiAlbert_n_30_d_4_BFS_7.png" width="500" />
+<img src="/img/grafoBarabasiAlbert_n_30_d_4_Dijkstra__source_1_labels.png" width="500" />
 
 > 30 Nodos y 29 Aristas
 
 ##
 
-### 30 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
-**n = 30, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_R_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-### 30 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
-**n = 30, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_30_d_4_DFS_I_7.png" width="500" />
-
-> 30 Nodos y 29 Aristas
-
-##
-
-### 100 nodos (Variante del modelo Gn,d Barabási-Albert)
+### Muchos nodos (Variante del modelo Gn,d Barabási-Albert)  [graphviz](/graphviz/grafoBarabasiAlbert_n_100_d_4_labels.gv)
 **n = 100, d = 4, dirigido = False, auto=False**
 
-<img src="/img/grafoBarabasiAlbert_n_100_d_4.png" width="500" />
+<img src="/img/grafoBarabasiAlbert_n_100_d_4_labels.png" width="500" />
 
 > 100 Nodos y 198 Aristas
 
 ##
 
-### 100 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
-**n = 100, d = 4, dirigido = False, auto=False**
+### Muchos nodos - Dijkstra (Variante del modelo Gn,d Barabási-Albert) [graphviz](/graphviz/grafoBarabasiAlbert_n_100_d_4_Dijkstra__source_1_labels.gv)
+**n = 100, d = 4, dirigido = False, auto=False**, nodo_raiz= 1 
 
-<img src="/img/grafoBarabasiAlbert_n_100_d_4_BFS_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
-**n = 100, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_R_7.png" width="500" />
+<img src="/img/grafoBarabasiAlbert_n_100_d_4_Dijkstra__source_1_labels.png" width="500" />
 
 > 100 Nodos y 99 Aristas
-
-##
-
-### 100 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
-**n = 100, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_100_d_4_DFS_I_7.png" width="500" />
-
-> 100 Nodos y 99 Aristas
-
-##
-
-### 500 nodos (Variante del modelo Gn,d Barabási-Albert)
-**n =500, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_500_d_4.png" width="500" />
-
-> 500 Nodos y 999 Aristas
-
-##
-
-### 500 nodos - BFS (Variante del modelo Gn,d Barabási-Albert)
-**n =500, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_500_d_4_BFS_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS recursivo (Variante del modelo Gn,d Barabási-Albert)
-**n =500, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_R_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
-
-##
-
-### 500 nodos - DFS iterativo (Variante del modelo Gn,d Barabási-Albert)
-**n =500, d = 4, dirigido = False, auto=False**
-
-<img src="/img/grafoBarabasiAlbert_n_500_d_4_DFS_I_7.png" width="500" />
-
-> 500 Nodos y 499 Aristas
 
 ---
 
